@@ -17,7 +17,7 @@
   
   Se puede insertar, editar y borrar imágenes y sus títulos. Estas funcionalidades se muestran mediante ventanas modales.
   El diseño de la aplicación es adaptativo a las distintas pantallas.
-  Adjunto también un mockup de la interfaz en pdf dentro de la carpeta de archivos.
+  Adjunto también un mockup de la interfaz en pdf creado con Figma, dentro de la carpeta de archivos. Y una carpeta con capturas de la app finalizada: fotos-app.
   
   Bueno, espero que podáis usarla sin problemas.
   
