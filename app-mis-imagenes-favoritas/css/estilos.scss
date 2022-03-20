@@ -1,0 +1,57 @@
+@import 'variables';
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: url(../images/fondo.jpg);
+    background-size: cover;
+    font-family: $tipo;
+}
+
+.blanco {
+    color: $blanco;
+}
+
+.salir {
+    color: $blanco;
+    &:hover {
+        color: red;
+    }
+}
+
+.mini {
+    width: 100px;
+}
+
+#gestor {
+    width: 80%;
+    margin: 30px auto;
+}
+
+footer {
+    color: $blanco;
+    width: 80%;
+    margin: auto;
+    text-align: center;
+}
+
+.registro {
+    display: flex;
+    justify-content: center;
+    margin-top: 5%;
+    div {
+        .formulario {
+            background-color: $blanco;
+            padding: 5%;
+            border-radius: 10px;
+        }
+    }
+}
+
+.respuesta {
+    color: red;
+    text-transform: uppercase;
+}
